@@ -40,6 +40,7 @@ Development
 Development is a breeze. Once you have installed all your dependencies all the configuration is done for you. using simple The process is outlined here.
 #Yeoman Generator
 #FAQ
+If you like using yeoman generators, you could check out this cool yeoman generator by @iiegor!
 #Check out what people have done
 #How to Contribute:
 #License
