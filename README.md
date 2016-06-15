@@ -31,6 +31,13 @@ The motivation is simple, best practices. Everyone's ultimate goal is to build a
 This boilerplate serves a second purpose as well. It is a learning tool for any and all that are interested in learning how to put a large React application together. We have had extensive additions to this boilerplate from the community over time as practices have evolved, and we are always interested in hearing new ideas and welcome all forms of help.
 #Why Redux
 #Instruction
+Database
+
+We currently support MongoDB and Postgres, as well as the ability to not use any database. Learn about how to configure your app.
+
+Development
+
+Development is a breeze. Once you have installed all your dependencies all the configuration is done for you. using simple The process is outlined here.
 #Yeoman Generator
 #FAQ
 #Check out what people have done
