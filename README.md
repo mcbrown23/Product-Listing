@@ -26,6 +26,9 @@ Mongoose for MongoDB
 Sequelize for Postgres
 Procfile to enable deployment to Heroku & Docs on Salt configurations + Deployment for Digital Ocean
 #Motivation
+The motivation is simple, best practices. Everyone's ultimate goal is to build a non-trivial applications. Performant and free of bugs, we want our applications to be secure and joy for the user. We believe that using a mixture of with React.js and Webpack and Node is the best way to accomplish this. (hence...react-webpack-node).
+
+This boilerplate serves a second purpose as well. It is a learning tool for any and all that are interested in learning how to put a large React application together. We have had extensive additions to this boilerplate from the community over time as practices have evolved, and we are always interested in hearing new ideas and welcome all forms of help.
 #Why Redux
 #Instruction
 #Yeoman Generator
